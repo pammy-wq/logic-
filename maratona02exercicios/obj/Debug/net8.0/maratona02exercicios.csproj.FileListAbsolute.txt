@@ -1,0 +1,14 @@
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\bin\Debug\net8.0\maratona02exercicios.exe
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\bin\Debug\net8.0\maratona02exercicios.deps.json
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\bin\Debug\net8.0\maratona02exercicios.runtimeconfig.json
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\bin\Debug\net8.0\maratona02exercicios.dll
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\bin\Debug\net8.0\maratona02exercicios.pdb
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.AssemblyInfoInputs.cache
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.AssemblyInfo.cs
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.dll
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\refint\maratona02exercicios.dll
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.pdb
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\maratona02exercicios.genruntimeconfig.cache
+C:\Users\Pamela Everett\source\repos\maratona02exercicios\obj\Debug\net8.0\ref\maratona02exercicios.dll
