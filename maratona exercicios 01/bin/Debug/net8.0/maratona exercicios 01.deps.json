@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "maratona exercicios 01/1.0.0": {
+        "runtime": {
+          "maratona exercicios 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maratona exercicios 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

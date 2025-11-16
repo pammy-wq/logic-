@@ -1,0 +1,14 @@
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.exe
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.deps.json
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.dll
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.pdb
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.dll
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\refint\operadoreslogicos.dll
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.pdb
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\operadoreslogicos\obj\Debug\net8.0\ref\operadoreslogicos.dll

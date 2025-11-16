@@ -1,0 +1,14 @@
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\bin\Debug\net8.0\maratona exercicios 01.exe
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\bin\Debug\net8.0\maratona exercicios 01.deps.json
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\bin\Debug\net8.0\maratona exercicios 01.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\bin\Debug\net8.0\maratona exercicios 01.dll
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\bin\Debug\net8.0\maratona exercicios 01.pdb
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.dll
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\refint\maratona exercicios 01.dll
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.pdb
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\maratona exercicios 01.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\maratona exercicios 01\obj\Debug\net8.0\ref\maratona exercicios 01.dll

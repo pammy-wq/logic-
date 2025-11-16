@@ -1,0 +1,15 @@
+C:\Users\pamela.olemos\source\repos\condicionais\bin\Debug\net8.0\condicionais.exe
+C:\Users\pamela.olemos\source\repos\condicionais\bin\Debug\net8.0\condicionais.deps.json
+C:\Users\pamela.olemos\source\repos\condicionais\bin\Debug\net8.0\condicionais.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\condicionais\bin\Debug\net8.0\condicionais.dll
+C:\Users\pamela.olemos\source\repos\condicionais\bin\Debug\net8.0\condicionais.pdb
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.sourcelink.json
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.dll
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\refint\condicionais.dll
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.pdb
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\condicionais\obj\Debug\net8.0\ref\condicionais.dll

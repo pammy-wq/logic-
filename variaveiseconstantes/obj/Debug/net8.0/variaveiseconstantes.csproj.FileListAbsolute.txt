@@ -1,0 +1,14 @@
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.exe
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.deps.json
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\refint\variaveiseconstantes.dll
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
