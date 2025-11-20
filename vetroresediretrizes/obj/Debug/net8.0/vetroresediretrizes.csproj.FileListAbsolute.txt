@@ -1,0 +1,15 @@
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\bin\Debug\net8.0\vetroresediretrizes.exe
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\bin\Debug\net8.0\vetroresediretrizes.deps.json
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\bin\Debug\net8.0\vetroresediretrizes.runtimeconfig.json
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\bin\Debug\net8.0\vetroresediretrizes.dll
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\bin\Debug\net8.0\vetroresediretrizes.pdb
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.AssemblyInfoInputs.cache
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.AssemblyInfo.cs
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.csproj.CoreCompileInputs.cache
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.sourcelink.json
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.dll
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\refint\vetroresediretrizes.dll
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.pdb
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\vetroresediretrizes.genruntimeconfig.cache
+C:\Users\Pamela Everett\source\repos\vetroresediretrizes\obj\Debug\net8.0\ref\vetroresediretrizes.dll
