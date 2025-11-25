@@ -73,6 +73,17 @@ foreach ( int numero in numeros)
 }
 
 
+// solicitando ao usuario a digitação
+double preço, total = 0;
+
+do
+{
+    Console.WriteLine("digite o preço do produto (0 para finalizar");
+    preço = Convert.ToDouble(Console.ReadLine());
+    total += preço;
+} while (preço !=0);
+
+Console.WriteLine($"\nTotal da compra; R$ { total:F2}");
 
 
 
