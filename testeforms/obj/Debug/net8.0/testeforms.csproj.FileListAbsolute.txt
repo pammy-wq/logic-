@@ -1,0 +1,15 @@
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.sourcelink.json
+C:\Users\pamela.olemos\source\repos\testeforms\bin\Debug\net8.0\testeforms.exe
+C:\Users\pamela.olemos\source\repos\testeforms\bin\Debug\net8.0\testeforms.deps.json
+C:\Users\pamela.olemos\source\repos\testeforms\bin\Debug\net8.0\testeforms.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\testeforms\bin\Debug\net8.0\testeforms.dll
+C:\Users\pamela.olemos\source\repos\testeforms\bin\Debug\net8.0\testeforms.pdb
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.dll
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\refint\testeforms.dll
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.pdb
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\testeforms.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\testeforms\obj\Debug\net8.0\ref\testeforms.dll
