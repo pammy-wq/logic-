@@ -1,0 +1,14 @@
+C:\Users\solar\source\repos\maratona03\maratona03\bin\Debug\net8.0\maratona03.exe
+C:\Users\solar\source\repos\maratona03\maratona03\bin\Debug\net8.0\maratona03.deps.json
+C:\Users\solar\source\repos\maratona03\maratona03\bin\Debug\net8.0\maratona03.runtimeconfig.json
+C:\Users\solar\source\repos\maratona03\maratona03\bin\Debug\net8.0\maratona03.dll
+C:\Users\solar\source\repos\maratona03\maratona03\bin\Debug\net8.0\maratona03.pdb
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.AssemblyInfo.cs
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.dll
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\refint\maratona03.dll
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.pdb
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\maratona03.genruntimeconfig.cache
+C:\Users\solar\source\repos\maratona03\maratona03\obj\Debug\net8.0\ref\maratona03.dll

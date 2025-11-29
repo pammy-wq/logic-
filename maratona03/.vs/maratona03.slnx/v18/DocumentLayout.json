@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solar\\source\\repos\\maratona03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D855E2B-179E-4F27-AB83-92BDF2525C4B}|maratona03\\maratona03.csproj|c:\\users\\solar\\source\\repos\\maratona03\\maratona03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D855E2B-179E-4F27-AB83-92BDF2525C4B}|maratona03\\maratona03.csproj|solutionrelative:maratona03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solar\\source\\repos\\maratona03\\maratona03\\Program.cs",
+              "RelativeDocumentMoniker": "maratona03\\Program.cs",
+              "ToolTip": "C:\\Users\\solar\\source\\repos\\maratona03\\maratona03\\Program.cs",
+              "RelativeToolTip": "maratona03\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:38:34.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
