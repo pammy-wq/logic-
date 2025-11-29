@@ -1,0 +1,14 @@
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\bin\Debug\net8.0\MaratonaDeExercicios3.exe
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\bin\Debug\net8.0\MaratonaDeExercicios3.deps.json
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\bin\Debug\net8.0\MaratonaDeExercicios3.runtimeconfig.json
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\bin\Debug\net8.0\MaratonaDeExercicios3.dll
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\bin\Debug\net8.0\MaratonaDeExercicios3.pdb
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.AssemblyInfo.cs
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.dll
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\refint\MaratonaDeExercicios3.dll
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.pdb
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\MaratonaDeExercicios3.genruntimeconfig.cache
+C:\Users\solar\source\repos\MaratonaDeExercicios3\MaratonaDeExercicios3\obj\Debug\net8.0\ref\MaratonaDeExercicios3.dll
